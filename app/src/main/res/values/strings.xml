@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CryptoCap</string>
+    <string name="default_price">default price</string>
+    <string name="default_circulating_supply">default circulating supply</string>
+    <string name="default_hourly_volume">default hourly volume</string>
+    <string name="default_marketcap">default marketcap</string>
+    <string name="default_coin_name">default coin name</string>
+    <string name="default_coin_rank">default coint rank</string>
+    <string name="symbol">Symbol |</string>
+    <string name="name">Name</string>
+    <string name="default_daily_change">1d: 10.0%</string>
+    <string name="default_monthly_change">1w: -20.0%</string>
+    <string name="coin_rank">Coin rank:</string>
+    <string name="fully_diluted_market_cap">Market cap:</string>
+    <string name="hourly_volume">Hourly volume:</string>
+    <string name="hourly_change">Hourly change:</string>
+    <string name="circulating_supply">Circulating Supply:</string>
+    <string name="price">Price:</string>
+    <string name="daily_change">Daily change:</string>
+    <string name="default_hourly_change">default_hourly_change</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sell">Sell</string>
+    <string name="buy">Buy</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="quantity">Quantity</string>
+    <string name="entry_price">Entry Price:</string>
+    <string name="market_price">Market price:</string>
+    <string name="profit">Profit:</string>
+    <string name="quantityRow">Quantity:</string>
+    <string name="coin_name">Coin name:</string>
+    <string name="my_portfolio">My portfolio</string>
+    <string name="how_is_your_mood">How is your mood?</string>
+    <string name="capture_my_mood">Capture my Mood</string>
+    <string name="imageview_about_your_mood">Imageview about your mood</string>
+</resources>
